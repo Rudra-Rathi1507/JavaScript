@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  background: #f8b1fd;
+  background: hsl(219, 100%, 75%);
 }
 ::selection{
   color: #fff;
